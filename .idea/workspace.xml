@@ -4,22 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aaafd71a-ae9d-4f1a-96f5-324728369fce" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Diugurov_JAVA28-31_Homework4.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/cart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery_main.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery_small_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery_small_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery_small_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery_small_4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/star.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
-    </list>
+    <list default="true" id="aaafd71a-ae9d-4f1a-96f5-324728369fce" name="Changes" comment="Fixed the homework number." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -65,11 +50,24 @@
       <option name="presentableId" value="Default" />
       <updated>1746717299521</updated>
       <workItem from="1746717300534" duration="329000" />
-      <workItem from="1746717641278" duration="682000" />
+      <workItem from="1746717641278" duration="1144000" />
     </task>
+    <task id="LOCAL-00001" summary="Fixed the homework number.">
+      <option name="closed" value="true" />
+      <created>1746718791806</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1746718791806</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Fixed the homework number." />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed the homework number." />
   </component>
 </project>
