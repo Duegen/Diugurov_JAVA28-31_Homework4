@@ -3,12 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <link rel="stylesheet" href="style.css">
-    <title>Nikita Diugurov (JAVA 28-31) HW4</title>
+    <title>Nikita Diugurov (JAVA 28-31) HW6</title>
 </head>
 <body>
 <header>
     <section class="header_left">
-        <p>FASION SHOP</p>
+        <h1 id="title">FASION SHOP</h1>
         <nav>
             <ul>
                 <li>HOME</li>
@@ -22,15 +22,14 @@
     <section class="header_right">
         <input type="search" id="search" placeholder="Search">
         <div id="cart">
-            <div id="circle"></div>
+            <div id="circle">1</div>
         </div>
     </section>
 </header>
 <main>
     <section class="left">
-        <section>
+        <section class="info">
             <p>Red tight Shirt<br>Category: Women, Shirt</p>
-
             <div id="stars">
                 <div>
                     <img class="star" src="images/star.png" alt="star"/>
@@ -46,9 +45,20 @@
                 laudantium necessitatibus optio veritatis, voluptates. Accusamus ipsa ipsam numquam possimus quos
                 repudiandae similique temporibus tenetur vero?</p>
         </section>
+        <section class="gallery_middle">
+            <div class="main_img">
+                <img src="images/gallery_main.png" alt="gallery_main"/>
+            </div>
+            <div class="gallery_small">
+                <img class="img_small" src="images/gallery_small_1.png" alt="gallery_small_1"/>
+                <img class="img_small" src="images/gallery_small_2.png" alt="gallery_small_2"/>
+                <img class="img_small" src="images/gallery_small_3.png" alt="gallery_small_3"/>
+                <img class="img_small" src="images/gallery_small_4.png" alt="gallery_small_4"/>
+            </div>
+        </section>
         <section class="size_quantity">
             <p>Size:</p>
-            <nav>
+            <nav class="btns">
                 <div class="btn">XS</div>
                 <div class="btn">SM</div>
                 <div class="btn">M</div>
@@ -57,7 +67,7 @@
             </nav>
             <p>Quantity:</p>
             <nav id="quantity">
-                <nav>
+                <nav class="btns">
                     <div class="btn">1</div>
                     <div class="btn">2</div>
                     <div class="btn">3</div>
@@ -72,7 +82,7 @@
     </section>
     <section class="gallery">
         <div class="main_img">
-            <img src="images/gallery_main.png" alt="gallery_main" width="100%" height="100%"/>
+            <img src="images/gallery_main.png" alt="gallery_main"/>
         </div>
         <div class="gallery_small">
             <img class="img_small" src="images/gallery_small_1.png" alt="gallery_small_1"/>
